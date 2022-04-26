@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Winter2022JSPDay4JPAExample:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/Winter2022JSPDay4JPAExample_war</output-path>
+    <root id="archive" name="Winter2022JSPDay4JPAExample_war.war">
+      <element id="artifact" artifact-name="Winter2022JSPDay4JPAExample:war exploded" />
+    </root>
+  </artifact>
+</component>
